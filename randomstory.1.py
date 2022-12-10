@@ -78,3 +78,4 @@ randomlearnings= random.choice(learnings)
 
 story = randomword + randomrole + randomsaying + randomname +' travelled a beautiful city called' +randomplace +' where it was' + randomweather + ' and in this place'  +' he' + randombody + ' after that he shared his experiences' + randomwhom + randomnext + randomgone +randomscene+randomthen + randomknow + randomafter + randomplot + randomcheated + randomprofit + randomcase + randomaccused + randomnews + randomsolve + randomend + randomlearnings
 print(story)
+print("I am Ironman")
